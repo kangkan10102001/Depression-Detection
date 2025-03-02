@@ -63,5 +63,5 @@ This project is licensed under the MIT License.
 For queries or contributions, contact:
 - Email: kangkanpatowary18@gmail.com
 - GitHub: [kangkan10102001](https://github.com/kangkan10102001)
-- LinkedIn: [kangkan-patowary](https://www.linkedin.com/in/kangkan-patowary/)
+- LinkedIn: [kangkan-patowary](https://www.linkedin.com/in/kangkan-p-393166239/)
 
